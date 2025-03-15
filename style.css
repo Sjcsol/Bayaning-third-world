@@ -7,7 +7,7 @@ html, body {
 
 
 body {
-    background-image: url('images/bg.jpg'); 
+    background-image: url('bg.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -95,12 +95,12 @@ header h1 {
     cursor: pointer;
 }
 
-.modal-btn:nth-child(1) { background-image: url('images/cornelio.png'); }
-.modal-btn:nth-child(2) { background-image: url('images/Kenzone.PNG'); }
-.modal-btn:nth-child(3) { background-image: url('images/GABUTIN.jpg'); }
-.modal-btn:nth-child(4) { background-image: url('images/Shrek.jpg'); }
-.modal-btn:nth-child(5) { background-image: url('images/Jhunnie.jpg'); }
-.modal-btn:nth-child(6) { background-image: url('images/Sol.jpg'); }
+.modal-btn:nth-child(1) { background-image: url('cornelio.png'); }
+.modal-btn:nth-child(2) { background-image: url('Kenzone.PNG'); }
+.modal-btn:nth-child(3) { background-image: url('GABUTIN.jpg'); }
+.modal-btn:nth-child(4) { background-image: url('Shrek.jpg'); }
+.modal-btn:nth-child(5) { background-image: url('Jhunnie.jpg'); }
+.modal-btn:nth-child(6) { background-image: url('Sol.jpg'); }
 
 
 .modal-content {
